@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.11.0",
+    "emailjs": "^4.0.1",
+    "emailjs-com": "^3.2.0",
+    "react-icons": "^4.8.0",
+    "swiper": "^9.3.1"
+  }
+}
