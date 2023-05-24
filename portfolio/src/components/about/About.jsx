@@ -23,14 +23,14 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className='about__icon'/>
-              <h5>Experinece</h5>
+              <h5>Academic Year</h5>
               <small> 3rd Year of college</small>
             </article>
 
             <article className="about__card">
               <AiFillFund className='about__icon'/>
               <h5>Academic CGPA</h5>
-              <small>8.32/10</small>
+              <small>8.36/10</small>
             </article>
 
             <article className="about__card">
